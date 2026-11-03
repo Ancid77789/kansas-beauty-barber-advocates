@@ -565,5 +565,90 @@ window.campaignArticles = [
     "paragraphs": [
       "We Have the Power to Regulate AI! We’ve all heard the terrifying predictions: \"In 10 years, AI will take all the jobs and there’s nothing we can do about it.\" BS! Every day, metrics from agencies like the Department of Labor are weaponized by tech lobbyists and politicians to push a deregulation agenda. They treat these numbers like a weather forecast—as if a massive wave of job displacement is a natural disaster we just have to sit back and endure. But let’s be clear: this is a manufactured narrative. The public and our policymakers are being brainwashed into believing that artificial intelligence is an unstoppable, uncontrollable force. Governments have all the power in the world to regulate it. Those labor statistics shouldn’t be used as an excuse to throw our hands up and deregulate. They should be the exact catalyst we useto pass strict IT regulations, mandate corporate guardrails, and protect workers' rights. AI doesn't just \"happen\" to us. It is built, funded, and deployed by choice. It’s time to stop acting helpless, reject the deregulation trap, and start using our policy power to shape a future where technology serves people—not just corporate bottom lines."
     ]
+  },
+  {
+    "post": "56",
+    "title": "The Math Ain’t Mathing: The $1.3 Million Representation Gap",
+    "paragraphs": [
+      "How Kansas Beauty Professionals Fund a System That Silences Them",
+      "Every two years, over twenty thousand cosmetologists, estheticians, body art practitioners, and nail technicians across Kansas write personal checks to renew their professional licenses. Establishments, annually. Collectively, these frontline workers and small business owners generate over $1.3 million in annual fee revenue for the state. Yet, under current Kansas law, the hard-earned money paid by these professionals goes to support a regulatory system that denies them proportional representation, leaving them vastly outvoted by special interests, institutional insiders, and unrelated niches. This is a textbook case of structural regulatory capture and disproportionate representation. It is a system where the workers provide the funding, but the rules are written by those with the deepest pockets and the most political leverage.",
+      "The math ain’t mathing! To understand how skewed the playing field is, one only needs to look at the statutory layout of the Kansas Board of Cosmetology (KBOC) under K.S.A. 74-2701 and contrast it with the state’s independent barbering board.",
+      "Let's look at representation on Kansas cosmetology and barbering professional licensing boards.",
+      "Kansas Board of Barbering (KBOB)",
+      "• Approximately 1,500 active barbers",
+      "• 5 total board seats",
+      "• 4 seats reserved specifically for barbers",
+      "• About 1 board seat for every 375 barbers",
+      "Consumers:",
+      "• Approximately 2.94 million Kansans",
+      "• 1 public consumer seat",
+      "• About 1 seat for every 2.94 million consumers",
+      "Kansas Board of Cosmetology (KBOC)",
+      "• Approximately 17,000 licensed cosmetology professionals",
+      "• 8 total board seats",
+      "Cosmetologists",
+      "• Approximately 17,000 licensees",
+      "• 1 dedicated cosmetologist seat (plus 2 shared industry seats)",
+      "• More than 5,600 professionals per dedicated seat",
+      "Body Art Professionals (Tattooing, Cosmetic Tattooing, and Body Piercing)",
+      "• Approximately 500-600 licensees",
+      "• 1 shared seat representing three separate professions",
+      "• More than 500 professionals per shared seat",
+      "Tanning Facility Owners",
+      "• Approximately 234 facilities",
+      "• 1 dedicated board seat",
+      "• 1 seat per 234 facility owners",
+      "Beauty School Owners",
+      "• Approximately 25-30 schools",
+      "• 1 dedicated board seat",
+      "• 1 seat per approximately 30 school owners",
+      "Nail Technicians and Estheticians",
+      "• Approximately 2,500 licensees",
+      "• 0 dedicated seats",
+      "• No guaranteed representation",
+      "Kansas Consumers",
+      "• Approximately 2.94 million residents",
+      "• 2 public consumer seats",
+      "• About 1 seat per 1.47 million citizens",
+      "The contrast is staggering. Kansas barbers—regulated under a completely separate, dedicated agency—enjoy an exclusive five-member board to protect the barbering consumers and their trade resulting in a tight representation ratio of roughly 300 to 1.",
+      "Meanwhile, traditional beauty professionals are crammed onto an eight-member board where their voices are completely diluted. While a single tanning facility owner represents a tiny footprint of 234 licenses, thousands of estheticians and nail technicians across the state have zero statutorily guaranteed seats. They are forced to compete for a handful of shared slots, routinely leaving whole sectors of the industry with no frontline representation at all.",
+      "Even the body art sector is structurally fractured. Tattoo artists, cosmetic tattooers (permanent makeup), and body piercers do not get independent seats. They are forced to share a single slot. A single board member is expected to represent entirely separate trades with completely different tools, training pipelines, health concerns, and business models—completely erasing their individual representation.",
+      "Furthermore, the voice of the actual consumer advocate is cut in half. Under the independent Barber Board, a single public seat represents the barber services consumer interest for a universe of 1,500 practitioners. Under the Cosmetology Board, only two public seats are tasked with watching out for a massive empire of over 20,000 licenses and nearly 3 million beauty service consumers.",
+      "This is blatant and intentional taxation without representation. The financial reality makes this structural unfairness even harder to stomach. According to official state budget reviews, the KBOC operates on an approved budget of $1,334,062, funded entirely by individual license fees, salon registrations, and disciplinary fines.",
+      "Worse yet, pursuant to K.S.A. 74-2704, the state enforces a mandatory \"10% sweep.\" This means ten cents of every single dollar collected from a beauty professional's pocket is immediately siphoned off to fund the State General Fund, subsidizing projects completely unrelated to the beauty industry.",
+      "The remaining 90% goes into the Cosmetology Fee Fund to pay for an agency controlled by a board structurally weighted away from everyday workers. By statute, a key seat is reserved for a beauty school owner. While school owners have a massive financial interest in maintaining high student clock-hour requirements to keep tuition flowing, their economic goals are fundamentally distinct from—and often at odds with—the independent booth-renters and salon employees working on the floor every day.",
+      "This is the playbook of corporate capture. This dilution of practitioner power leaves the industry uniquely vulnerable to outside political meddling. In recent years, massive, corporate-backed lobbying networks have repeatedly bypassed the board's input to push sweeping deregulation agendas through the state legislature—targeting practices like hair braiding, threading, and sugaring.",
+      "When these deep-pocketed groups swoop into Topeka, they deploy a repetitive public playbook, claiming that deregulation will lead to an immediate minority-owned business boom. But history tells a different story. Decades after generic exemptions are passed, frontline advocates note that these promised booms rarely materialize. Instead, stripping away sensible licensing simply removes the structural guardrails—like accountability, liability insurance, and access to commercial bank loans—that single women pursuing trade schools need to build safe, sustainable, and long-term businesses.",
+      "When the board is structurally fragmented, everyday practitioners are left shouting from the sidelines, unable to present a unified counter-narrative against aggressive corporate lobbying.",
+      "Because the board’s lopsided makeup is written directly into state law under K.S.A. 74-2701, the board itself cannot change it. Shifting the balance requires the Kansas Legislature to amend the statute.",
+      "The current structure of the Kansas Board of Cosmetology is a historical relic that no longer reflects the demographic or economic reality of the workforce. It is fundamentally unfair to demand that twenty thousand professionals foot the bill for a million-dollar state agency while denying them an equal voice in its governance.",
+      "True reform requires legislative action to amend K.S.A. 74-2701. The Kansas Legislature must strip away legacy political protections and restructure state oversight based on actual practitioner ratios. Until the state board is balanced to accurately reflect the people who actually fund it, the frontline workers keeping the Kansas beauty industry alive will remain heavily taxed, strictly regulated, and completely unrepresented.",
+      "What can you do to help? Contact your KS senate and house representative and provide this information to them. Ask them to fix it! This is the kind of work they are supposed to be doing for you."
+    ]
+  },
+  {
+    "post": "57",
+    "title": "Helping the Little Guy",
+    "paragraphs": [
+      "When corporate-backed think tanks try to tell you that deregulating the beauty and barber industry is about \"helping the little guy,\" they are counting on you not knowing your history.",
+      "During the Civil Rights Movement, the beauty salon wasn't just a place to get hair done. It was an economic fortress.",
+      "When white employers fired black maids, sharecroppers, and laborers for trying to vote, black beauticians were untouchable. Why? Because they owned their shops, controlled their capital, and served their own community. They couldn't be blacklisted by the corporate establishment.",
+      "They used that financial autonomy to fund the NAACP, bail out protestors, and organize the underground movement.",
+      "Today, corporate special interests (like the Koch-funded groups) want to strip away licensing and professional standards under the guise of \"cutting red tape\" and \"AI disruption.\" But history tells us the truth: Stripping away professional standards doesn't liberate workers—it devalues specialized labor, crashes your pricing power, and turns a path to true wealth-building into a race-to-the-bottom gig economy.",
+      "We aren't letting them corporate-franchise our trades or siphon wealth out of our communities. Professional standards keep the power exactly where it belongs: in the hands of the licensed professionals."
+    ]
+  },
+  {
+    "post": "58",
+    "title": "Black Beauty Salons: A History of Resistance",
+    "paragraphs": [
+      "During the Civil Rights Movement, black beauty salons served as vital, subversive organizing hubs, underground safe spaces, and economic engines. While traditional narratives highlight the Black church, beauty parlors—predominantly run by and for Black American women—played an equally crucial but hidden role in the fight for racial justice.",
+      "The beauty industry was an economic fortress because it had untouchable autonomy. When white employers fired black maids, sharecroppers, and laborers for registering to vote, black beauticians were completely financially independent. They owned their physical shops, controlled their own capital, and served their own communities, making them entirely immune to corporate or political blacklisting.",
+      "These beauticians funded the frontlines. They used their financial autonomy to fund the NAACP, bail out jailed protestors, and bankroll grassroots underground movements. Black beauty salons were the core pillars of grassroots power.",
+      "Historian Dr. Tiffany M. Gill notes that beauticians held three rare resources essential for political mobilization: unrestricted space, direct access to the daily lives of women, and their own economic capital. Salons were safe zones free from outside surveillance where women could freely debate politics and coordinate boycotts. They were safe communication hubs.",
+      "Activist and beautician Bernice Robinson transformed her beauty salon into a hidden classroom, secretly prepping citizens to pass discriminatory voter registration literacy tests. From early 20th-century entrepreneurship to modern professional standards, licensed beauty and barber professionals have continuously fought to keep power, dignity, and wealth-building in the hands of the practitioners who serve their communities.",
+      "To understand how deep this legacy runs and why professional standards continue to protect trade autonomy, read Dr. Tiffany M. Gill's book, Beauty Shop Politics: African American Women's Activism in the Beauty Industry."
+    ],
+    "html": "<p>During the Civil Rights Movement, black beauty salons served as vital, subversive organizing hubs, underground safe spaces, and economic engines. While traditional narratives highlight the Black church, beauty parlors—predominantly run by and for Black American women—played an equally crucial but hidden role in the fight for racial justice.</p>\n<p>The beauty industry was an economic fortress because it had untouchable autonomy. When white employers fired black maids, sharecroppers, and laborers for registering to vote, black beauticians were completely financially independent. They owned their physical shops, controlled their own capital, and served their own communities, making them entirely immune to corporate or political blacklisting.</p>\n<p>These beauticians funded the frontlines. They used their financial autonomy to fund the NAACP, bail out jailed protestors, and bankroll grassroots underground movements. Black beauty salons were the core pillars of grassroots power.</p>\n<p>Historian Dr. Tiffany M. Gill notes that beauticians held three rare resources essential for political mobilization: unrestricted space, direct access to the daily lives of women, and their own economic capital. Salons were safe zones free from outside surveillance where women could freely debate politics and coordinate boycotts. They were safe communication hubs.</p>\n<p>Activist and beautician Bernice Robinson transformed her beauty salon into a hidden classroom, secretly prepping citizens to pass discriminatory voter registration literacy tests. From early 20th-century entrepreneurship to modern professional standards, licensed beauty and barber professionals have continuously fought to keep power, dignity, and wealth-building in the hands of the practitioners who serve their communities.</p>\n<p>To understand how deep this legacy runs and why professional standards continue to protect trade autonomy, read Dr. Tiffany M. Gill's book, <em>Beauty Shop Politics: African American Women's Activism in the Beauty Industry</em>.</p>\n<ul><li><a href=\"https://www.press.uillinois.edu/books/?id=p076961\" target=\"_blank\" rel=\"noopener noreferrer\">Buy the book through University of Illinois Press</a></li><li><a href=\"https://www.tiffanymgill.com/books\" target=\"_blank\" rel=\"noopener noreferrer\">Find online options on Dr. Gill's official publications page</a></li></ul>"
   }
 ];
