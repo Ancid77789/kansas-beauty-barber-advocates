@@ -922,6 +922,18 @@ h2 em {
   text-underline-offset: 0.22em;
 }
 
+.media-line {
+  margin: 0.75rem 0 0;
+  color: rgba(247, 244, 236, 0.72);
+  font-size: 0.8rem;
+}
+
+.media-line a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.22em;
+}
+
 .site-footer {
   display: flex;
   align-items: center;
