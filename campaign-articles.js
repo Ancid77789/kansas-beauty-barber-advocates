@@ -198,10 +198,9 @@
       }
       indexList.replaceChildren(...items.map(({ article }) => {
         const item = document.createElement("li");
-        item.value = Number(article.post);
         const link = document.createElement("a");
         link.href = `#article-${article.post}`;
-        link.textContent = article.title;
+        link.textContent = `${article.type === "infographic" ? "Infographic" : "Article"} ${article.post} — ${article.title}`;
         link.addEventListener("click", (event) => {
           event.preventDefault();
           const card = cards.find((c) => c.dataset.post === article.post);

@@ -797,8 +797,14 @@ h2 em {
 }
 
 .article-card--infographic img {
+  width: 25%;
   height: auto;
   margin-bottom: 1rem;
+  transition: width 180ms ease;
+}
+
+.article-card--infographic.article-card--expanded img {
+  width: 100%;
 }
 
 .article-excerpt {
@@ -1665,8 +1671,9 @@ h2 em {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   column-gap: 2rem;
   margin: 0;
-  padding-left: 1.5rem;
+  padding: 0;
   max-height: 22rem;
+  list-style: none;
   overflow-y: auto;
   overflow-x: hidden;
 }
