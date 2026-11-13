@@ -1249,13 +1249,14 @@ h2 em {
 
 .site-footer {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 1.5rem;
   padding: 1.6rem 7.1%;
   border-top: 1px solid rgba(23, 26, 30, 0.16);
   color: var(--muted-ink);
-  font-size: 0.68rem;
+  font-size: 0.78rem;
 }
 
 .site-disclaimer {
@@ -1268,7 +1269,9 @@ h2 em {
 .footer-brand {
   max-width: 290px;
   color: var(--ink);
+  font-size: 0.9rem;
   font-weight: 700;
+  line-height: 1.35;
 }
 
 .back-top {
@@ -1587,8 +1590,7 @@ h2 em {
     max-width: none;
   }
 
-  .site-footer > a:nth-child(2) {
-    order: 1;
+  .site-footer > a[href^="mailto:"] {
     width: 100%;
   }
 }
