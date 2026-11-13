@@ -16,13 +16,13 @@ available at:
 Open `index.html` in a web browser. The site uses static HTML, CSS, and JavaScript; no package
 installation or build step is required.
 
-The **From the campaign** section lists 62 BBPCA articles. The three newest articles appear first,
+The **From the campaign** section lists 61 BBPCA articles and one infographic. The three newest entries appear first,
 followed by the earlier reviewed articles ordered by Facebook views (most viewed first).
-It opens with an **article index** that can be sorted (new articles then most viewed, article number, title A–Z or
-Z–A) and links to each article. Nine articles show at first and a **Show more** button loads the
+It opens with an **articles and infographics index** that can be sorted (newest then most viewed, number, title A–Z or
+Z–A) and links to each entry. Its numbers match the article or infographic numbers. Nine entries show at first and a **Show more** button loads the
 rest. Articles with matched publication records show their posting dates and times; article 30
-has no confirmed match and remains undated. Articles do not display images. Article text is stored
-in `campaign-articles-data.js`.
+has no confirmed match and remains undated. Infographic 49 displays its image and accompanying comment;
+articles do not display images. Entry text is stored in `campaign-articles-data.js`.
 Article cards cycle through 20 color themes; long plain-text blocks are displayed in shorter
 paragraphs when sentence segmentation is available. Existing specially formatted articles retain
 their markup. Articles with source lists link directly to their sources and back.
@@ -33,7 +33,7 @@ cards, topic filtering narrows resource cards, and article filtering narrows art
 Search covers resource cards and article-source entries. The SB 30 fact sheet is available at
 `fact-sheet.html` with links to primary sources.
 
-Article images are kept out of the website in `archive/article-images/`, with the article-to-image
+Archived article images are kept out of the website in `archive/article-images/`, with the article-to-image
 mapping in `archive/article-images.json`. The deploy workflow excludes `archive/`.
 
 The site's fonts (DM Sans and Playfair Display) are self-hosted in `assets/fonts/`, so the page

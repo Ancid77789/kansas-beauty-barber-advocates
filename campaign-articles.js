@@ -55,6 +55,8 @@
     card.className = "article-card";
 
     card.classList.add("article-card--text");
+    const isInfographic = article.type === "infographic";
+    if (isInfographic) card.classList.add("article-card--infographic");
     card.id = `article-${article.post}`;
     if (Number(article.post) % 2 === 0) card.classList.add("article-card--sans-title");
 
@@ -70,7 +72,7 @@
 
     const meta = document.createElement("p");
     meta.className = "article-meta";
-    meta.textContent = `Article ${article.post}`;
+    meta.textContent = `${isInfographic ? "Infographic" : "Article"} ${article.post}`;
     content.append(meta);
 
     if (article.postedAt && article.postedLabel) {
@@ -84,6 +86,17 @@
     const title = document.createElement("h3");
     title.textContent = article.title;
     content.append(title);
+
+    if (isInfographic) {
+      if (!article.image || !article.imageAlt) {
+        throw new Error(`Infographic ${article.post} is missing its image or alt text.`);
+      }
+      const image = document.createElement("img");
+      image.src = article.image;
+      image.alt = article.imageAlt;
+      image.loading = "lazy";
+      content.append(image);
+    }
 
     const preview = article.paragraphs.find((paragraph, index) =>
       !article.headings?.includes(index) && paragraph.trim() && !paragraph.trim().startsWith("•"),
@@ -101,7 +114,7 @@
     const details = document.createElement("details");
     if (article.paragraphs.length) {
       const summary = document.createElement("summary");
-      summary.textContent = "Read full article";
+      summary.textContent = isInfographic ? "Read the comment" : "Read full article";
       details.append(summary);
 
       const body = document.createElement("div");
@@ -180,11 +193,12 @@
       const items = original.filter(({ article }) => matches(article)).sort(sorters[sortSelect.value] || sorters.views);
       if (statusLine instanceof HTMLElement) {
         statusLine.textContent = isFiltering()
-          ? `${items.length} of ${original.length} articles match.`
+          ? `${items.length} of ${original.length} articles and infographics match.`
           : "";
       }
       indexList.replaceChildren(...items.map(({ article }) => {
         const item = document.createElement("li");
+        item.value = Number(article.post);
         const link = document.createElement("a");
         link.href = `#article-${article.post}`;
         link.textContent = article.title;
@@ -224,7 +238,7 @@
     cards.forEach((card, i) => { card.hidden = i >= shown; });
     if (!more) return;
     const remaining = cards.length - shown;
-    status.textContent = `Showing ${Math.min(shown, cards.length)} of ${cards.length} articles`;
+    status.textContent = `Showing ${Math.min(shown, cards.length)} of ${cards.length} articles and infographics`;
     button.textContent = `Show ${Math.max(0, Math.min(PAGE_SIZE, remaining))} more`;
     more.hidden = false;
     button.hidden = remaining <= 0;
