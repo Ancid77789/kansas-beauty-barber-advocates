@@ -705,11 +705,21 @@ window.campaignArticles = [
   },
   {
     "post": "49",
+    "type": "infographic",
+    "image": "assets/infographic-49.jpg",
+    "imageAlt": "A private protest poster on a utility pole calls on Kansas beauty and barber professionals to resist deregulation, refuse service to politicians undermining the industry, and join the campaign.",
     "postedAt": "2026-10-23T12:24",
     "postedLabel": "Posted Friday, October 23, 2026 at 12:24 p.m.",
     "title": "Respect the craft or cut your own hair!!",
     "paragraphs": [
-      "They want to vote to deregulate cosmetology and barbering trades and cut you out of the conversation? Then they can learn to cut their own hair!! They have Koch? You have the chair!! Private Protest!! You have the right to refuse service to any Kansas politician pushing bills that threaten public sanitation and devalue professional beauty and barber licenses in protest! If they come into your shop looking for professional service while supporting legislation that dismantles your industry, politely ask them to leave!! Politicians are not a protected class in Kansas! Professional standards keep the public safe. #Respect the craft or cut your own hair!!"
+      "They want to vote to deregulate the cosmetology and barbering trades and cut you out of the conversation?",
+      "Then they can learn to cut their own hair!!",
+      "They have Koch? You have the chair!!",
+      "Private Protest!!",
+      "You have the right to refuse service to any Kansas politician pushing bills that threaten public sanitation and devalue professional beauty and barber licenses in protest!",
+      "If they come into your shop looking for a professional service while supporting legislation that dismantles your industry, politely ask them to leave!!",
+      "Professional standards keep the public safe.",
+      "#Respect the craft or cut your own hair!!"
     ]
   },
   {
